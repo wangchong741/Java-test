@@ -1,4 +1,4 @@
-package com.likou.lookup;
+package com.likou.array;
 
 /**
  * 二分查找1
